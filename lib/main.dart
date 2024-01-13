@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:ratecheck_pro/homepage.dart';
+import 'package:ratecheck_pro/Homepage/homepage_views/homepage.dart';
 
 void main() {
   runApp(const MyApp());
